@@ -1,0 +1,223 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "Name": "Aravind",
+      "Person_Details": {
+        "e_mail": "nishu.gakkhar30@gmail.com",
+        "When_you_were_born": "30.07.1994",
+        "livePlace": "Chennai",
+        "Nationality": "Indian",
+        "Marital_status": "Single"
+      },
+      "Educational_Qualification": {
+        "HSC": {
+          "Name": "S.h.n.v.hr.sec.school",
+          "When": "2012",
+          "Where": "hjvghjvgj",
+          "percentage": 90
+        },
+        "SSC": {
+          "Name": "D A V Centenary Public school",
+          "When": "2012",
+          "Where": "Haridwar"
+        },
+        "Post Graduation": {
+          "Name": "Lovely Professional University",
+          "From": "2012",
+          "To": "2016",
+          "Where": "Phagwara"
+        }
+      },
+      "Experience": {
+        "Projects": {
+          "Title": "Car Pooling",
+          "Description": "To facilitate the user with an appliaction which notify then the cars available for sharing travel to the same destination",
+          "Duration in months": "2"
+        },
+        "Work Experience": {
+          "Organization": "Cognizant Technical soultions",
+          "Where": "Chennai",
+          "Experience": "2"
+        }
+      },
+      "HSC": {
+        "Name": "S.h.n.v.hr.sec.school",
+        "When": "2012",
+        "Where": "hjvghjvgj",
+        "percentage": 90
+      },
+      "SSC": {
+        "Name": "D A V Centenary Public school",
+        "When": "2012",
+        "Where": "Haridwar"
+      },
+      "Post Graduation": {
+        "Name": "Lovely Professional University",
+        "From": "2012",
+        "To": "2016",
+        "Where": "Phagwara"
+      }
+    },
+    {
+      "id": 2,
+      "Name": "Matta",
+      "Educational_Qualification": {
+        "HSC": {
+          "Name": "S.h.n.v.hr.sec.school",
+          "When": "2012",
+          "Where": "hjvghjvgj",
+          "percentage": 90
+        },
+        "SSC": {
+          "Name": "D A V Centenary Public school",
+          "When": "2012",
+          "Where": "Haridwar"
+        },
+        "Post Graduation": {
+          "Name": "Lovely Professional University",
+          "From": "2012",
+          "To": "2016",
+          "Where": "Phagwara"
+        }
+      },
+      "Experience": {
+        "Projects": {
+          "Title": "Car Pooling",
+          "Description": "To facilitate the user with an appliaction which notify then the cars available for sharing travel to the same destination",
+          "Duration in months": "2"
+        },
+        "Work Experience": {
+          "Organization": "Cognizant Technical soultions",
+          "Where": "Chennai",
+          "Experience": "2"
+        }
+      },
+      "HSC": {
+        "Name": "S.h.n.v.hr.sec.school",
+        "When": "2012",
+        "Where": "hjvghjvgj",
+        "percentage": 90
+      },
+      "SSC": {
+        "Name": "D A V Centenary Public school",
+        "When": "2012",
+        "Where": "Haridwar"
+      },
+      "Post Graduation": {
+        "Name": "Lovely Professional University",
+        "From": "2012",
+        "To": "2016",
+        "Where": "Phagwara"
+      }
+    },
+    {
+      "id": 3,
+      "Name": "Mittal",
+      "Educational_Qualification": {
+        "HSC": {
+          "Name": "S.h.n.v.hr.sec.school",
+          "When": "2012",
+          "Where": "hjvghjvgj",
+          "dfghj": "hhh",
+          "percentage": 90
+        },
+        "SSC": {
+          "Name": "D A V Centenary Public school",
+          "When": "2012",
+          "Where": "Haridwar"
+        },
+        "Post Graduation": {
+          "Name": "Lovely Professional University",
+          "From": "2012",
+          "To": "2016",
+          "Where": "Phagwara"
+        }
+      },
+      "Experience": {
+        "Projects": {
+          "Title": "Car Pooling",
+          "Description": "To facilitate the user with an appliaction which notify then the cars available for sharing travel to the same destination",
+          "Duration in months": "2"
+        },
+        "Work Experience": {
+          "Organization": "Cognizant Technical soultions",
+          "Where": "Chennai",
+          "Experience": "2"
+        }
+      },
+      "HSC": {
+        "Name": "S.h.n.v.hr.sec.school",
+        "When": "2012",
+        "Where": "hjvghjvgj",
+        "percentage": 90
+      },
+      "SSC": {
+        "Name": "D A V Centenary Public school",
+        "When": "2012",
+        "Where": "Haridwar"
+      },
+      "Post Graduation": {
+        "Name": "Lovely Professional University",
+        "From": "2012",
+        "To": "2016",
+        "Where": "Phagwara"
+      }
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "username": "mano",
+      "id": 14
+    },
+    {
+      "username": "vijay",
+      "id": 15
+    },
+    {
+      "username": "rajini",
+      "Educational_Qualification": {
+        "school_name": "raghavendra school"
+      },
+      "id": 16
+    },
+    {
+      "username": "kamal",
+      "Educational_Qualification": {},
+      "id": 17
+    },
+    {
+      "username": "ajith",
+      "Educational_Qualification": {},
+      "id": 18
+    }
+  ]
+}
